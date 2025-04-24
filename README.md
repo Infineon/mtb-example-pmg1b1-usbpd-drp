@@ -4,7 +4,7 @@ This code example demonstrates USB Type-C attach detection and USB Power Deliver
 
 [View this README on GitHub.](https://github.com/Infineon/mtb-example-pmg1b1-usbpd-drp)
 
-[Provide feedback on this code example.](https://cypress.co1.qualtrics.com/jfe/form/SV_1NTns53sK2yiljn?Q_EED=eyJVbmlxdWUgRG9jIElkIjoiQ0UyMzMzNTQiLCJTcGVjIE51bWJlciI6IjAwMi0zMzM1NCIsIkRvYyBUaXRsZSI6IkVaLVBEJnRyYWRlOyBQTUcxQjEgTUNVOiBVU0JQRCBkdWFsLXJvbGUgcG93ZXIgKERSUCkiLCJyaWQiOiJrb25kIiwiRG9jIHZlcnNpb24iOiIxLjAuMCIsIkRvYyBMYW5ndWFnZSI6IkVuZ2xpc2giLCJEb2MgRGl2aXNpb24iOiJNQ0QiLCJEb2MgQlUiOiJXSVJFRCIsIkRvYyBGYW1pbHkiOiJUWVBFLUMifQ==)
+[Provide feedback on this code example.](https://cypress.co1.qualtrics.com/jfe/form/SV_1NTns53sK2yiljn?Q_EED=eyJVbmlxdWUgRG9jIElkIjoiQ0UyMzcwMzAiLCJTcGVjIE51bWJlciI6IjAwMi0zNzAzMCIsIkRvYyBUaXRsZSI6IkVaLVBEJnRyYWRlOyBQTUcxQjEgTUNVOiBVU0JQRCBkdWFsLXJvbGUgcG93ZXIgKERSUCkiLCJyaWQiOiJrb25kIiwiRG9jIHZlcnNpb24iOiIxLjEuMCIsIkRvYyBMYW5ndWFnZSI6IkVuZ2xpc2giLCJEb2MgRGl2aXNpb24iOiJNQ0QiLCJEb2MgQlUiOiJXSVJFRCIsIkRvYyBGYW1pbHkiOiJUWVBFLUMifQ==)
 
 ## Requirements
 
@@ -401,11 +401,12 @@ Infineon provides a wealth of data at [www.infineon.com](https://www.infineon.co
 
 ## Document history
 
- Document title: *CE233354* – *EZ-PD&trade; PMG1 MCU: USBPD dual-role power (DRP)*
+ Document title: *CE237030* – *EZ-PD&trade; PMG1 MCU: USBPD dual-role power (DRP)*
 
  Version | Description of change
  ------- | ---------------------
  1.0.0   | New code example
+ 1.1.0   | Locked to cat-2 PDL 2.15.0
  
 <br />
 

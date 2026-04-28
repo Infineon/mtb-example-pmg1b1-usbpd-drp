@@ -65,7 +65,7 @@ jobs:
       github.actor != 'black-duck-security[bot]' &&
       github.actor != 'github-actions[bot]'      &&
       github.actor != 'dependabot[bot]'
-    runs-on: [ badges ]
+    runs-on: [ self-hosted, Linux, X64, badges ]
     env:
       # ── Branch to scan — resolves: manual input → webhook payload → pushed branch → main ─
       TARGET_BRANCH: ${{ github.event.inputs.target_branch || github.event.client_payload.ref || github.ref_name || 'main' }}

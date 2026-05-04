@@ -765,7 +765,7 @@ jobs:
             "${BD_START}" \
             "![BD Policy](${BADGE_POLICY_URL}) ![BD Violations](${BADGE_VIOLATIONS_URL}) ![BD Vulnerabilities](${BADGE_VULN_URL}) ![BD License](${BADGE_LICENSE_URL})" \
             "" \
-            "<sub>🦆 Black Duck SCA — last scanned: ${SCAN_DATE}</sub>" \
+            "<sub>Black Duck SCA — last scanned: ${SCAN_DATE}</sub>" \
             "" \
             "${BD_END}" \
             "")"

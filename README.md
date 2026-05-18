@@ -1,10 +1,9 @@
 <!-- BD_BADGES_START -->
 ![BD Policy](https://img.shields.io/badge/Black%20Duck%20%7C%20Policy-Pass-4c1) ![BD Violations](https://img.shields.io/badge/BD%20%7C%20Violations-None-4c1) ![BD Vulnerabilities](https://img.shields.io/badge/BD%20%7C%20Vulnerabilities-None-4c1) ![BD License](https://img.shields.io/badge/BD%20%7C%20License%20Risk-OK-4c1)
 
-<sub>Black Duck SCA — last scanned: 2026-05-11 03:11 UTC</sub>
+<sub>Black Duck SCA — last scanned: 2026-05-18 03:05 UTC</sub>
 
-<!-- BD_BADGES_END -->This code example demonstrates USB Type-C attach detection and USB Power Delivery contract negotiation using EZ-PD&trade; PMG1B1 MCU devices as a dual-role power (DRP) controller. In the Sink mode, the EZ-PD™ PMG1B1 MCU can negotiate upto 100W (20V @ 5A) over the USB-C port and convert the negotiated USB-C VBUS voltage to 20 V output using the integrated buck boost peripheral. In Source mode, the EZ-PD™ PMG1B1 MCU can source up to 27W (9V @ 3A).
-
+<!-- BD_BADGES_END -->
 [View this README on GitHub.](https://github.com/Infineon/mtb-example-pmg1b1-usbpd-drp)
 
 [Provide feedback on this code example.](https://cypress.co1.qualtrics.com/jfe/form/SV_1NTns53sK2yiljn?Q_EED=eyJVbmlxdWUgRG9jIElkIjoiQ0UyMzcwMzAiLCJTcGVjIE51bWJlciI6IjAwMi0zNzAzMCIsIkRvYyBUaXRsZSI6IkVaLVBEJnRyYWRlOyBQTUcxQjEgTUNVOiBVU0JQRCBkdWFsLXJvbGUgcG93ZXIgKERSUCkiLCJyaWQiOiJrb25kIiwiRG9jIHZlcnNpb24iOiIxLjEuMCIsIkRvYyBMYW5ndWFnZSI6IkVuZ2xpc2giLCJEb2MgRGl2aXNpb24iOiJNQ0QiLCJEb2MgQlUiOiJXSVJFRCIsIkRvYyBGYW1pbHkiOiJUWVBFLUMifQ==)

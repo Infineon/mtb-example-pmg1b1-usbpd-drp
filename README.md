@@ -1,10 +1,9 @@
 <!-- BD_BADGES_START -->
 ![BD Policy](https://img.shields.io/badge/Black%20Duck%20%7C%20Policy-Pass-4c1) ![BD Violations](https://img.shields.io/badge/BD%20%7C%20Violations-None-4c1) ![BD Vulnerabilities](https://img.shields.io/badge/BD%20%7C%20Vulnerabilities-None-4c1) ![BD License](https://img.shields.io/badge/BD%20%7C%20License%20Risk-OK-4c1)
 
-<sub>Black Duck SCA — last scanned: 2026-05-18 03:05 UTC</sub>
+<sub>Black Duck SCA — last scanned: 2026-07-10 12:40 UTC</sub>
 
-<!-- BD_BADGES_END -->
-[View this README on GitHub.](https://github.com/Infineon/mtb-example-pmg1b1-usbpd-drp)
+<!-- BD_BADGES_END -->[View this README on GitHub.](https://github.com/Infineon/mtb-example-pmg1b1-usbpd-drp)
 
 [Provide feedback on this code example.](https://cypress.co1.qualtrics.com/jfe/form/SV_1NTns53sK2yiljn?Q_EED=eyJVbmlxdWUgRG9jIElkIjoiQ0UyMzcwMzAiLCJTcGVjIE51bWJlciI6IjAwMi0zNzAzMCIsIkRvYyBUaXRsZSI6IkVaLVBEJnRyYWRlOyBQTUcxQjEgTUNVOiBVU0JQRCBkdWFsLXJvbGUgcG93ZXIgKERSUCkiLCJyaWQiOiJrb25kIiwiRG9jIHZlcnNpb24iOiIxLjEuMCIsIkRvYyBMYW5ndWFnZSI6IkVuZ2xpc2giLCJEb2MgRGl2aXNpb24iOiJNQ0QiLCJEb2MgQlUiOiJXSVJFRCIsIkRvYyBGYW1pbHkiOiJUWVBFLUMifQ==)
 

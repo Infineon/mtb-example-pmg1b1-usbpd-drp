@@ -806,10 +806,10 @@ jobs:
               awk -v s="${BD_START}" -v e="${BD_END}" \
                 'p==1 && index($0,e){p=0;next} p==1{next} index($0,s){p=1;next} {print}' \
                 README.md > README.md.clean
-              printf '%s' "${NEW_BADGE_BLOCK}" | cat - README.md.clean > README.md
+              printf '%s\n' "${NEW_BADGE_BLOCK}" | cat - README.md.clean > README.md
               rm -f README.md.clean
             else
-              printf '%s' "${NEW_BADGE_BLOCK}" | cat - README.md > README.md.new
+              printf '%s\n' "${NEW_BADGE_BLOCK}" | cat - README.md > README.md.new
               mv README.md.new README.md
             fi
           else
